@@ -1,0 +1,1 @@
+./liquibase --classpath=scripts --logLevel debug --defaultsFile=gb-shop.properties "$@"
